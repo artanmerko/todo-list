@@ -15,3 +15,4 @@
 6. You should add some persistence to this todo app using the Web Storage API.<br>
  a. **localStorage** [docs here](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API) allows you to save data on the user’s computer. The downside here is that the data is ONLY accessible on the computer that it was created on. Even so, it’s pretty handy! Set up a function that saves the projects (and todos) to localStorage every time a new project (or todo) is created, and another function that looks for that data in localStorage when your app is first loaded.<br>
 
+#### [Live](//https:artanmerko.github.io/todo-list/dist)
