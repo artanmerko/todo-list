@@ -1,2 +1,2 @@
 # todo-list
-JavaScript PROJECT: Todo-list
+## JavaScript PROJECT: Todo-list
